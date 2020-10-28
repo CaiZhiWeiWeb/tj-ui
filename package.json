@@ -1,8 +1,9 @@
 {
-  "name": "tj-ui",
+  "name": "tjy-ui",
   "version": "0.1.0",
   "private": false,
-  "main": "dist/tj-ui.umd.min.js",
+  "main": "dist/tjy-ui.umd.min.js",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
